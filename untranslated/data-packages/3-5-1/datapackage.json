@@ -1,0 +1,82 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Indicator Treatment Intervention",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage who received at least one treatment intervention in their lifetime",
+                "Percntage of persons who did not receive drug treatment within the past 12 months",
+                "Percntage of persons who did not receive drug treatment within the past 12 Jamaica",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "Not sure where to go",
+                "Not ready to stop",
+                "Not finding type needed",
+                "Not on Health Plan",
+                "Treatment unaffordable",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Reasons for not accessing the treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fear negative effect on job",
+                "Fear neighbours’ negative opinion",
+                "28.1",
+                "21.8",
+                "24.3",
+                "2.3",
+                "12.2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-5-1",
+  "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+}

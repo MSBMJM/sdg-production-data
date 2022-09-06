@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Kapos Mountain Class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "k1",
+                "k2",
+                "k3",
+                "k4",
+                "k5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "IPCC Class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forest",
+                "Cropland",
+                "Grassland",
+                "Wetland",
+                "Settlement",
+                "Other Land",
+                "MGCI",
+                "MGCI All",
+                "MGC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-4-2",
+  "title": "Mountain Green Cover Index"
+}
