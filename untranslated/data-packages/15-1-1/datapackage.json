@@ -25,6 +25,16 @@
             }
           },
           {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
