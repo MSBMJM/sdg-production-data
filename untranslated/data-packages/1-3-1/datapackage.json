@@ -51,7 +51,7 @@
                 "Manchester",
                 "Clarendon",
                 "St Catherine",
-                "St Mary Total",
+                "St Mary ",
                 ""
               ]
             }
@@ -68,8 +68,6 @@
                 "Male",
                 "Female",
                 "Total",
-                "Number",
-                "per 100.000 population",
                 "Persons with disabilities",
                 ""
               ]
@@ -83,8 +81,6 @@
                 "%",
                 "Number",
                 "per 100.000 population",
-                "St Mary",
-                "St Ann",
                 ""
               ]
             }
