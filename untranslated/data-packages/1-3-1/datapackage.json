@@ -35,15 +35,13 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "GKMA",
-                "OUC",
+                "Greater Kingston Metropolitan Area",
+                "Other Urban Centre",
                 "Rural",
                 "Kingston & St Andrew",
                 "St Thomas",
                 "Portland",
-                "Portland. Female",
                 "St Mary",
-                "St Mary Female",
                 "St Ann",
                 "Trelawny",
                 "St James",
@@ -54,7 +52,6 @@
                 "Clarendon",
                 "St Catherine",
                 "St Mary Total",
-                "KMA",
                 ""
               ]
             }
@@ -85,27 +82,16 @@
               "enum": [
                 "%",
                 "Number",
-                "587",
-                "204",
-                "939",
-                "per 100",
                 "per 100.000 population",
-                "242",
-                "524",
                 "St Mary",
                 "St Ann",
-                "224",
-                "495",
-                "19",
-                "35",
-                "98",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

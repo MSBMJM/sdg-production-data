@@ -1,5 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
-%,49,4
+%,47,4
 ('000 boe),10,1
 ('000 Mwh),5,1
 '000 Mwh),1,1
@@ -14,17 +14,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 14.4,1,1
 14.8,1,1
 1660.90,1,1
-19,1,1
 1990.3,1,1
-204,1,1
-224,1,1
-242,1,1
-35,1,1
-495,1,1
-524,1,1
-587,1,1
-939,1,1
-98,1,1
 (%),59,7
 Cumulative Mean Beach Width (m),9,1
 Density (per 10,9,1
@@ -39,17 +29,16 @@ Marine Area (ha),6,1
 ($ Million),6,1
 (Neonatal Mortality Ratio),1,1
 Number of Sites,9,1
-Number,91,2
+Number,96,2
 per 100 000 population,18,1
 (per 100 inhabitants),1,1
-per 100,1,1
 per 100.000 adults,2,1
 (per 100.000 population),27,1
 per 100.000 population,29,2
+per cent,1,1
 (Per cent),5,2
 (per cent),3,1
 Per cent,1,1
-per cent,1,1
 (Proportion of Births),1,1
 Score,13,1
 St Ann,1,1
