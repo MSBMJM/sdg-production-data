@@ -1055,8 +1055,10 @@
               "enum": [
                 "Jamaica",
                 "Rural Areas",
-                "Greater Kingston Metropolitan Area",
+                "GKMA",
                 "Other Urban Centres",
+                "KMA",
+                "Others Towns",
                 ""
               ]
             }
@@ -2823,6 +2825,7 @@
                 "Manchester",
                 "Clarendon",
                 "St Catherine",
+                "St Mary Total",
                 ""
               ]
             }
@@ -2839,6 +2842,8 @@
                 "Male",
                 "Female",
                 "Total",
+                "Number",
+                "per 100.000 population",
                 "Persons with disabilities",
                 ""
               ]
@@ -2852,6 +2857,8 @@
                 "%",
                 "Number",
                 "per 100.000 population",
+                "St Mary",
+                "St Ann",
                 ""
               ]
             }

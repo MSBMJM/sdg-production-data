@@ -21,8 +21,10 @@
               "enum": [
                 "Jamaica",
                 "Rural Areas",
-                "Greater Kingston Metropolitan Area",
+                "GKMA",
                 "Other Urban Centres",
+                "KMA",
+                "Others Towns",
                 ""
               ]
             }
