@@ -5744,7 +5744,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5759,7 +5759,6 @@
               "enum": [
                 "Percentage who received at least one treatment intervention in their lifetime",
                 "Percntage of persons who did not receive drug treatment within the past 12 months",
-                "Percntage of persons who did not receive drug treatment within the past 12 Jamaica",
                 ""
               ]
             },
@@ -5783,11 +5782,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "Not sure where to go",
-                "Not ready to stop",
-                "Not finding type needed",
-                "Not on Health Plan",
-                "Treatment unaffordable",
                 ""
               ]
             },
@@ -5799,12 +5793,12 @@
             "constraints": {
               "enum": [
                 "Fear negative effect on job",
-                "Fear neighbours’ negative opinion",
-                "28.1",
-                "21.8",
-                "24.3",
-                "2.3",
-                "12.2",
+                "Fear neighbours negative opinion",
+                "Not sure where to go",
+                "Not ready to stop",
+                "Not finding type needed",
+                "Not on Health Plan",
+                "Treatment unaffordable",
                 ""
               ]
             },
