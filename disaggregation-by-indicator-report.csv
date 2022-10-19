@@ -32,24 +32,24 @@ Indicator,Disaggregations,Number of disaggregations
 #16-1-1,"Geographical Region, Sex",2
 #16-1-3,Type of Violence,1
 #16-1-4,"Sex, Region, Safety at time of day",3
-#16-2-1,"Age Group, Sex, Wealth Quintile, Geographical Area, Type of Punishment",5
+#16-2-1,"Age Group, Sex, Geographical Area, Wealth Quintile, Type of Punishment",5
 #16-3-1,"Geographical Area, Type of Crime",2
 #16-3-2,"Unit, Geographical Area, Type of Detainee",3
 #16-5-1,"Unit, Geographical Area, Proportion of bribery Incident, Type of bribe, Status of Corruption Charges",5
 #16-7-1,"Sex, House of Parliament/Local Government Representative",2
 #16-9-1,Geographical Area,1
-#17-1-1,"Unit, Category",2
-#17-1-2,"Unit, Category",2
-#17-11-1,"Unit, Category, Geographic Region",3
-#17-19-2,"Geographic Region, Indicator",2
-#17-3-1,"Unit, Category",2
+#17-1-1,"Category, Unit",2
+#17-1-2,"Category, Unit",2
+#17-11-1,"Category, Unit, Geographic Region",3
+#17-19-2,"Indicator, Geographic Region",2
+#17-3-1,"Category, Unit",2
 #17-3-2,"Indicator, Name",2
 #17-4-1,Type of Debt,1
 #17-6-2,"Geographical Region, Unit",2
 #17-8-1,"Geographical Region, Sex",2
 #2-1-1,Geographical Regions,1
-#2-2-1,"Age Group, Geographical Regions, Sex",3
-#2-2-2,"Age Group, Geographical Regions, Sex",3
+#2-2-1,"Age Group, Sex, Geographical Regions",3
+#2-2-2,"Age Group, Sex, Geographical Regions",3
 #2-a-2,"Unit, Type of Development Assistance",2
 #3-1-1,"Geographical Region, Unit",2
 #3-1-2,"Geographical Region, Unit",2
@@ -57,31 +57,31 @@ Indicator,Disaggregations,Number of disaggregations
 #3-2-2,"Geographical Region, Unit",2
 #3-3-1,"Geographical Region, Sex, HIV Indicators",3
 #3-3-2,"Geogaphical Region, Tubercolosis Indicator",2
-#3-3-3,"Geogaphical Region, Malaria Indicator",2
+#3-3-3,"Malaria Indicator, Geogaphical Region",2
 #3-4-1,"Geogaphical Region, Mortality Indictor",2
-#3-4-2,"Unit, Sex, Geographical Area, Indicator",4
+#3-4-2,"Unit, Sex, Indicator, Geographical Area",4
 #3-5-1,"Geographical Region, Sex, Indicator Treatment Intervention, Reasons for not accessing the treatment",4
-#3-5-2,"Sex, Indicator for harmful drug, Geogaphical Region",3
+#3-5-2,"Sex, Geogaphical Region, Indicator for harmful drug",3
 #3-6-1,"Geographical Region, Unit, Indicator for road traffic injuries",3
-#3-7-1,"Age Group, Geographical Region, Indicator",3
+#3-7-1,"Geographical Region, Age Group, Indicator",3
 #3-8-2,"Geographical Region, Sex, Indicator",3
 #3-9-3,"Geographical Region, Indicator",2
 #3-b-1,"Vaccination Indicator, Time Vaccinated, Source of Vaccination Record",3
 #3-b-2,"Unit, Type of Development Assistance",2
 #3-c-1,"Unit, Type of Health Worker",2
 #3-d-1,"Unit, Category of International Health Regulations",2
-#4-1-1,"Geographical Region, Sex, Name of Test, Descriptor",4
-#4-2-1,"Age Group, Sex, Wealth Index Quintiles, Development Type, Geographic Location, Preschool attendance",6
+#4-1-1,"Geographical Region, Name of Test, Descriptor, Sex",4
+#4-2-1,"Age Group, Sex, Development Type, Geographic Location, Preschool attendance, Wealth Index Quintiles",6
 #4-2-2,Geographical Region,1
-#4-3-1,"Enrolment Status, Age Group",2
+#4-3-1,"Age Group, Enrolment Status",2
 #4-4-1,"Age Group, ICT Skill",2
-#4-5-1,"Sex, School Type, Index, Geographic Area, Wealth Index Quintiles",5
-#4-6-1,"Sex, Subject, Parish",3
+#4-5-1,"School Type, Sex, Wealth Index Quintiles, Index, Geographic Area",5
+#4-6-1,"Parish, Sex, Subject",3
 #4-a-1,"School Type, infrastructure Type",2
 #4-c-1,Educational Level,1
-#5-2-1,"Age Group, Geographical Region, Form of Violence, Partner Status, Group, Educational Status, Age at First Union",7
-#5-2-2,"Geographical Region, Partner Status, Age at First Union, Form of Sexual Violence, Main Source of Income",5
-#5-3-1,"Age Group, Geographical Region",2
+#5-2-1,"Form of Violence, Partner Status, Geographical Region, Group, Age Group, Educational Status, Age at First Union",7
+#5-2-2,"Partner Status, Geographical Region, Age at First Union, Form of Sexual Violence, Main Source of Income",5
+#5-3-1,"Geographical Region, Age Group",2
 #5-5-1,"Sex, House of Parliament",2
 #5-b-1,"Geographical Region, Sex",2
 #6-1-1,"Geographical Region, Wealth Quintile",2
