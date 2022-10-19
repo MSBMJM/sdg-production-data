@@ -33,7 +33,7 @@
                 "Steam & Slow Speed Plants",
                 "Gas Turbines & Combined Cycle Plant",
                 "Hydro",
-                "Purchase from Independent Power Producers (IIPs) ('000 Mwh)",
+                "Purchase from Independent Power Producers (IIPs) ",
                 "Total",
                 "Percentage Contribution of Jamaica Public Service Company (JPSCo)",
                 "Percentage Contribution of IIPs",
@@ -53,13 +53,8 @@
               "enum": [
                 "(Tonnes)",
                 "('000 Mwh)",
-                "1990.3",
                 "(%)",
                 "('000 MWh)",
-                "'000 Mwh)",
-                "1411.30",
-                "1097.20",
-                "1660.90",
                 ""
               ]
             },
@@ -67,7 +62,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -1,28 +1,28 @@
 Year,Type of Mineral,Unit,Value
-2019,Bauxite,(Tonnes),9017
-2019,Alumina,(Tonnes),2173
-2019,Silica Sand,(Tonnes),25
-2019,Limestone,(Tonnes),2379
+2019,Bauxite,(Tonnes),9017.0
+2019,Alumina,(Tonnes),2173.0
+2019,Silica Sand,(Tonnes),25.0
+2019,Limestone,(Tonnes),2379.0
 2019,Sand and Gravel,(Tonnes),
-2019,Marl and Fill,(Tonnes),637
-2019,Shale,(Tonnes),217
-2019,Pozzolan,(Tonnes),80
-2019,Clay,(Tonnes),0
-2019,Gypsum,(Tonnes),55
-2020,Bauxite,(Tonnes),7552
-2020,Alumina,(Tonnes),1621
-2020,Silica Sand,(Tonnes),29
-2020,Limestone,(Tonnes),2592
-2020,Sand and Gravel,(Tonnes),1365
-2020,Marl and Fill,(Tonnes),661
-2020,Shale,(Tonnes),167
-2020,Pozzolan,(Tonnes),102
-2020,Clay,(Tonnes),0
-2020,Gypsum,(Tonnes),66
+2019,Marl and Fill,(Tonnes),637.0
+2019,Shale,(Tonnes),217.0
+2019,Pozzolan,(Tonnes),80.0
+2019,Clay,(Tonnes),0.0
+2019,Gypsum,(Tonnes),55.0
+2020,Bauxite,(Tonnes),7552.0
+2020,Alumina,(Tonnes),1621.0
+2020,Silica Sand,(Tonnes),29.0
+2020,Limestone,(Tonnes),2592.0
+2020,Sand and Gravel,(Tonnes),1365.0
+2020,Marl and Fill,(Tonnes),661.0
+2020,Shale,(Tonnes),167.0
+2020,Pozzolan,(Tonnes),102.0
+2020,Clay,(Tonnes),0.0
+2020,Gypsum,(Tonnes),66.0
 2019,Steam & Slow Speed Plants,('000 Mwh),1229.4
 2019,Gas Turbines & Combined Cycle Plant,('000 Mwh),1054.9
 2019,Hydro,('000 Mwh),155.2
-2019,Purchase from Independent Power Producers (IIPs) ('000 Mwh),1990.3,undefined
+2019,Purchase from Independent Power Producers (IIPs) ,('000 Mwh),1990.3
 2019,Total,('000 Mwh),4429.8
 2019,Percentage Contribution of Jamaica Public Service Company (JPSCo),(%),55.1
 2019,Percentage Contribution of IIPs,(%),44.9
@@ -31,7 +31,7 @@ Year,Type of Mineral,Unit,Value
 2020,Steam & Slow Speed Plants,('000 Mwh),459.7
 2020,Gas Turbines & Combined Cycle Plant,('000 Mwh),800.2
 2020,Hydro,('000 Mwh),135.6
-2020,Purchase from Independent Power Producers (IIPs),'000 Mwh),2831.9
+2020,Purchase from Independent Power Producers (IIPs),('000 Mwh),2831.9
 2020,Total,('000 Mwh),4227.4
 2020,Percentage Contribution of Jamaica Public Service Company (JPSCo),(%),33.0
 2020,Percentage Contribution of IIPs,(%),67.0
@@ -90,7 +90,7 @@ Year,Type of Mineral,Unit,Value
 2011,Steam & Slow Speed Plants,('000 Mwh),1583.3
 2011,Gas Turbines & Combined Cycle Plant,('000 Mwh),990.1
 2011,Hydro,('000 Mwh),152.1
-2011,Purchase from Independent Power Producers (IIPs) ('000 Mwh),1411.30,
+2011,Purchase from Independent Power Producers (IIPs) ,('000 Mwh),1411.3
 2011,Total,('000 Mwh),4136.8
 2011,Percentage Contribution of Jamaica Public Service Company (JPSCo),(%),65.9
 2011,Percentage Contribution of IIPs,(%),34.1
@@ -99,7 +99,7 @@ Year,Type of Mineral,Unit,Value
 2012,Steam & Slow Speed Plants,('000 Mwh),1500.5
 2012,Gas Turbines & Combined Cycle Plant,('000 Mwh),942.4
 2012,Hydro,('000 Mwh),150.7
-2012,Purchase from Independent Power Producers (IIPs),'000 Mwh),1542.3
+2012,Purchase from Independent Power Producers (IIPs),('000 Mwh),1542.3
 2012,Total,('000 Mwh),4135.9
 2012,Percentage Contribution of Jamaica Public Service Company (JPSCo),(%),62.7
 2012,Percentage Contribution of IIPs,(%),37.3
@@ -112,12 +112,12 @@ Year,Type of Mineral,Unit,Value
 2013,Total,('000 Mwh),4141.6
 2013,Percentage Contribution of Jamaica Public Service Company (JPSCo),(%),56.6
 2013,Percentage Contribution of IIPs,(%),43.4
-2013,Lossess & Accounted for ('000 MWh),1097.20,
+2013,Lossess & Accounted for ('000 MWh),('000 Mwh),1097.2
 2013,System losses as a percentage of net generation,(%),26.5
 2014,Steam & Slow Speed Plants,('000 Mwh),1460.6
 2014,Gas Turbines & Combined Cycle Plant,('000 Mwh),854.1
 2014,Hydro,('000 Mwh),136.0
-2014,Purchase from Independent Power Producers (IIPs) ('000 Mwh),1660.90,
+2014,Purchase from Independent Power Producers (IIPs) ,('000 Mwh),1660.9
 2014,Total,('000 Mwh),4111.6
 2014,Percentage Contribution of Jamaica Public Service Company (JPSCo),(%),59.6
 2014,Percentage Contribution of IIPs,(%),40.4
