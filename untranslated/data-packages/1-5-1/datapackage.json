@@ -37,7 +37,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persons Affeted",
+                "Persons Affected",
                 "Persons Dead",
                 "Persons Missing",
                 ""
