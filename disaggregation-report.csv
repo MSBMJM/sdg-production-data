@@ -22,7 +22,7 @@ GDP (Tourism),1,2
 Geogaphical Region,4,1
 Geographic Area,1,5
 Geographic Location,1,4
-Geographic Region,5,21
+Geographic Region,5,20
 Geographical Area,7,22
 Geographical Region,29,27
 Geographical Regions,3,8
@@ -56,7 +56,7 @@ Name,1,1
 Parish,3,41
 Partner Status,2,8
 Pollutant,1,6
-Population Group,1,10
+Population Group,1,8
 Preschool attendance,1,2
 Proportion of bribery Incident,1,1
 Quarter,3,4
@@ -97,7 +97,7 @@ Type of Transpotation,1,7
 Type of Violence,1,4
 Type of Waste Collected,1,13
 Type of waste composition,1,10
-Unit,34,52
+Unit,34,50
 Vaccination Indicator,1,18
 Watershed,1,5
 Wealth Index Quintiles,2,6
