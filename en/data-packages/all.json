@@ -324,7 +324,6 @@
             "constraints": {
               "enum": [
                 "Tonnes",
-                "Tonnes 1",
                 ""
               ]
             },
