@@ -37,7 +37,6 @@
               "enum": [
                 "Female",
                 "Male",
-                "Portland",
                 ""
               ]
             },
@@ -52,7 +51,7 @@
                 "Kingston",
                 "St  Andrew",
                 "St  Thomas",
-                "268",
+                "Portland",
                 "St  Mary",
                 "St  Ann",
                 "Trelawny",
@@ -63,15 +62,8 @@
                 "Manchester",
                 "Clarendon",
                 "St  Catherine",
-                "51",
-                "232",
-                "551",
-                "43.4",
-                "287",
-                "50",
-                "243",
-                "580",
-                "46.2",
+                "Female",
+                "Male",
                 ""
               ]
             },
@@ -79,7 +71,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

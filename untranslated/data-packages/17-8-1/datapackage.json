@@ -20,8 +20,6 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "Male",
-                "Female",
                 "Urban",
                 "Rural",
                 ""
@@ -33,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "42.2",
                 "Male",
                 "Female",
                 ""

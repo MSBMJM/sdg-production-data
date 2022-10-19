@@ -21,6 +21,7 @@
               "enum": [
                 "Pharmacist",
                 "Pharmaceutical Technician and Assistants",
+                "Jamaica",
                 "General Medical Practitioner",
                 "Specialist Medical Practitioner",
                 "Nursing Professional",
@@ -29,7 +30,6 @@
                 "Midwifery Associate Professional",
                 "Dentist",
                 "Dental Assistant",
-                "Jamaica",
                 ""
               ]
             }
@@ -40,7 +40,6 @@
             "constraints": {
               "enum": [
                 "Number",
-                "Density (per 10",
                 "Density (per 10.000 population)",
                 ""
               ]
@@ -48,7 +47,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

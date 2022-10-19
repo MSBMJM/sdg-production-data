@@ -21,15 +21,11 @@
             "constraints": {
               "enum": [
                 "Water Closet Linked to Central Sewer Network",
-                "Water Closet Linked to Offsite disposal system",
-                "Water Closet Linked to Onsite disposal system",
-                "Pit Laterine",
-                "Other",
-                "Water Closet Linked to Sewer",
-                "Water Closet Not Linked to Sewer",
                 "Water Closet Linked to Offsite Disposal System",
                 "Water Closet Linked to Onsite Disposal System",
-                "Pit Latrine",
+                "Pit Laterine",
+                "Other",
+                "Water Closet Not Linked to Sewer",
                 ""
               ]
             },
@@ -41,7 +37,7 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "GKMA",
+                "Greater Kingston Metropolitan Area",
                 "Other Urban Centre",
                 "Rural Area",
                 ""

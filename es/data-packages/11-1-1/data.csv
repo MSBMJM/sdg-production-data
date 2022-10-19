@@ -9,11 +9,11 @@ Year,Geographical Area,Tenure,Value
 2018,Greater Kingston Metropolitan Area,Rented,21.6
 2018,Greater Kingston Metropolitan Area,Rent Free,24.4
 2018,Greater Kingston Metropolitan Area,Squatted,4.1
-2018,Other Urban centre,Owned,38.6
-2018,Other Urban centre,Leased,5.4
-2018,Other Urban centre,Rented,17.8
-2018,Other Urban centre,Rent Free,31.2
-2018,Other Urban centre,Squatted,6.8
+2018,Other Urban Centres,Owned,38.6
+2018,Other Urban Centres,Leased,5.4
+2018,Other Urban Centres,Rented,17.8
+2018,Other Urban Centres,Rent Free,31.2
+2018,Other Urban Centres,Squatted,6.8
 2018,Rural Areas,Owned,45.9
 2018,Rural Areas,Leased,4.0
 2018,Rural Areas,Rented,10.2
@@ -29,11 +29,11 @@ Year,Geographical Area,Tenure,Value
 2019,Greater Kingston Metropolitan Area,Rented,24.4
 2019,Greater Kingston Metropolitan Area,Rent Free,31.1
 2019,Greater Kingston Metropolitan Area,Squatted,4.0
-2019,Other Urban centre,Owned,39.3
-2019,Other Urban centre,Leased,6.9
-2019,Other Urban centre,Rented,16.2
-2019,Other Urban centre,Rent Free,31.7
-2019,Other Urban centre,Squatted,5.9
+2019,Other Urban Centres,Owned,39.3
+2019,Other Urban Centres,Leased,6.9
+2019,Other Urban Centres,Rented,16.2
+2019,Other Urban Centres,Rent Free,31.7
+2019,Other Urban Centres,Squatted,5.9
 2019,Rural Areas,Owned,43.5
 2019,Rural Areas,Leased,4.2
 2019,Rural Areas,Rented,9.7
@@ -89,31 +89,31 @@ Year,Geographical Area,Tenure,Value
 2017,Greater Kingston Metropolitan Area,Rented,20.4
 2017,Greater Kingston Metropolitan Area,Rent Free,26.6
 2017,Greater Kingston Metropolitan Area,Squatted,5.8
-2013,Other Urban centre,Owned,43.1
-2013,Other Urban centre,Leased,7.8
-2013,Other Urban centre,Rented,17.4
-2013,Other Urban centre,Rent Free,25.6
-2013,Other Urban centre,Squatted,5.9
-2014,Other Urban centre,Owned,33.1
-2014,Other Urban centre,Leased,7.2
-2014,Other Urban centre,Rented,19.7
-2014,Other Urban centre,Rent Free,31.8
-2014,Other Urban centre,Squatted,8.3
-2015,Other Urban centre,Owned,44.0
-2015,Other Urban centre,Leased,4.9
-2015,Other Urban centre,Rented,24.0
-2015,Other Urban centre,Rent Free,22.7
-2015,Other Urban centre,Squatted,4.2
-2016,Other Urban centre,Owned,41.3
-2016,Other Urban centre,Leased,6.2
-2016,Other Urban centre,Rented,17.9
-2016,Other Urban centre,Rent Free,25.6
-2016,Other Urban centre,Squatted,8.6
-2017,Other Urban centre,Owned,40.5
-2017,Other Urban centre,Leased,5.8
-2017,Other Urban centre,Rented,18.1
-2017,Other Urban centre,Rent Free,27.7
-2017,Other Urban centre,Squatted,7.3
+2013,Other Urban Centres,Owned,43.1
+2013,Other Urban Centres,Leased,7.8
+2013,Other Urban Centres,Rented,17.4
+2013,Other Urban Centres,Rent Free,25.6
+2013,Other Urban Centres,Squatted,5.9
+2014,Other Urban Centres,Owned,33.1
+2014,Other Urban Centres,Leased,7.2
+2014,Other Urban Centres,Rented,19.7
+2014,Other Urban Centres,Rent Free,31.8
+2014,Other Urban Centres,Squatted,8.3
+2015,Other Urban Centres,Owned,44.0
+2015,Other Urban Centres,Leased,4.9
+2015,Other Urban Centres,Rented,24.0
+2015,Other Urban Centres,Rent Free,22.7
+2015,Other Urban Centres,Squatted,4.2
+2016,Other Urban Centres,Owned,41.3
+2016,Other Urban Centres,Leased,6.2
+2016,Other Urban Centres,Rented,17.9
+2016,Other Urban Centres,Rent Free,25.6
+2016,Other Urban Centres,Squatted,8.6
+2017,Other Urban Centres,Owned,40.5
+2017,Other Urban Centres,Leased,5.8
+2017,Other Urban Centres,Rented,18.1
+2017,Other Urban Centres,Rent Free,27.7
+2017,Other Urban Centres,Squatted,7.3
 2013,Rural Areas,Owned,48.5
 2013,Rural Areas,Leased,8.1
 2013,Rural Areas,Rented,7.4

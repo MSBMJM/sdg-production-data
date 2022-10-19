@@ -31,8 +31,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per cent",
                 "Jamaica",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
                 ""
               ]
             }

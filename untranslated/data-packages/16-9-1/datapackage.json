@@ -15,26 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "House of Parliament/Local Government Representative",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lower House",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total Number of Seats",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Geographical Area",
             "type": "string",
             "constraints": {
