@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Type of Specie",
+            "name": "Type of Species",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,11 +30,11 @@
             }
           },
           {
-            "name": "status",
+            "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "endemic",
+                "Endemic",
                 "Threatened",
                 ""
               ]
@@ -42,7 +42,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

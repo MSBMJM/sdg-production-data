@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Type of Specie",
+            "name": "Type of Species",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,23 +29,23 @@
                 ""
               ]
             },
-            "title": "Type of Specie"
+            "title": "Type of Species"
           },
           {
-            "name": "status",
+            "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "endemic",
+                "Endemic",
                 "Threatened",
                 ""
               ]
             },
-            "title": "status"
+            "title": "Status"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
