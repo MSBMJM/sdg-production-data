@@ -27,20 +27,8 @@
             "title": "Geographic Region"
           },
           {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Registration of Births",
-                "Registration of Deaths",
-                ""
-              ]
-            },
-            "title": "Indicator"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

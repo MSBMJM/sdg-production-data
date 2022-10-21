@@ -12,12 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Status of SDG Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Available",
+                "Proxies",
+                "Not Available",
+                ""
+              ]
+            },
+            "title": "Status of SDG Indicators"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
