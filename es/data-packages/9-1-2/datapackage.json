@@ -19,7 +19,7 @@
             "title": "Año"
           },
           {
-            "name": "Mode of Transport",
+            "name": "Mode of transport",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,7 +29,7 @@
                 ""
               ]
             },
-            "title": "Mode of Transport"
+            "title": "Mode of transport"
           },
           {
             "name": "Unit",
@@ -38,6 +38,7 @@
               "enum": [
                 "'(000)",
                 "('000 tonnes)",
+                "('000)",
                 ""
               ]
             },

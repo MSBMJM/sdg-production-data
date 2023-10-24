@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "Name of Test",
+            "name": "Name of test",
             "type": "string",
             "constraints": {
               "enum": [
@@ -31,7 +31,7 @@
                 ""
               ]
             },
-            "title": "Name of Test"
+            "title": "Name of test"
           },
           {
             "name": "Descriptor",
@@ -49,7 +49,7 @@
             "title": "Descriptor"
           },
           {
-            "name": "Geographical Region",
+            "name": "Geographical region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -59,7 +59,7 @@
                 ""
               ]
             },
-            "title": "Geographical Region"
+            "title": "Geographical region"
           },
           {
             "name": "Sex",

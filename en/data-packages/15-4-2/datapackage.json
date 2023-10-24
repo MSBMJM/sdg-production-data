@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Kapos Mountain Class",
+            "name": "Kapos mountain class",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,10 +28,10 @@
                 ""
               ]
             },
-            "title": "Kapos Mountain Class"
+            "title": "Kapos mountain class"
           },
           {
-            "name": "IPCC Class",
+            "name": "Ipcc class",
             "type": "string",
             "constraints": {
               "enum": [
@@ -47,7 +47,7 @@
                 ""
               ]
             },
-            "title": "IPCC Class"
+            "title": "Ipcc class"
           },
           {
             "name": "Unit",
@@ -55,10 +55,26 @@
             "constraints": {
               "enum": [
                 "(%)",
+                "(km2 '000)",
+                "(Area %)",
+                "(km2 ‘000)",
+                "(area %)",
                 ""
               ]
             },
             "title": "Unit"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sum of green cover classes",
+                "Sum of other land cover classes",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -71,5 +87,5 @@
   ],
   "profile": "data-package",
   "name": "15-4-2",
-  "title": "Mountain Green Cover Index"
+  "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
 }

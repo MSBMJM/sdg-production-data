@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Geographic Region",
+            "name": "Geographic region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "Geographic Region"
+            "title": "Geographic region"
           },
           {
             "name": "Unit",

@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Type of Species",
+            "name": "Type of species",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,6 +36,25 @@
               "enum": [
                 "Endemic",
                 "Threatened",
+                "Extinct",
+                "Critical Endangered",
+                "Endangered",
+                "Vulnerable",
+                "Near Threatened",
+                "Data Deficient",
+                "Least Concern",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of specie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Animals",
+                "Plants",
                 ""
               ]
             }

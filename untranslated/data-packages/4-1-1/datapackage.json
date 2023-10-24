@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Name of Test",
+            "name": "Name of test",
             "type": "string",
             "constraints": {
               "enum": [
@@ -46,7 +46,7 @@
             }
           },
           {
-            "name": "Geographical Region",
+            "name": "Geographical region",
             "type": "string",
             "constraints": {
               "enum": [

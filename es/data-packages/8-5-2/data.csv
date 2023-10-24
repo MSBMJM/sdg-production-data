@@ -1,4 +1,4 @@
-Year,Quarter,Sex,Age Group,Value
+Year,Quarter,Sex,Age group,Value
 2019,January,Both Sexes,Total,8.0
 2019,January,Both Sexes,14-19,32.4
 2019,January,Both Sexes,20-24,19.7
@@ -551,3 +551,75 @@ Year,Quarter,Sex,Age Group,Value
 2018,October,Female,45-54,6.0
 2018,October,Female,55-64,3.8
 2018,October,Female,65 and over,4.0
+2022,January,Both Sexes,Total,6.2
+2022,January,Both Sexes,14-19,27.2
+2022,January,Both Sexes,20-24,15.5
+2022,January,Both Sexes,25-34,6.2
+2022,January,Both Sexes,35-44,4.4
+2022,January,Both Sexes,45-54,2.8
+2022,January,Both Sexes,55-64,3.0
+2022,January,Both Sexes,65 and over,1.9
+2022,April,Both Sexes,Total,6.0
+2022,April,Both Sexes,14-19,24.2
+2022,April,Both Sexes,20-24,13.6
+2022,April,Both Sexes,25-34,6.3
+2022,April,Both Sexes,35-44,4.1
+2022,April,Both Sexes,45-54,3.3
+2022,April,Both Sexes,55-64,2.9
+2022,April,Both Sexes,65 and over,2.0
+2022,July,Both Sexes,Total,6.6
+2022,July,Both Sexes,14-19,31.0
+2022,July,Both Sexes,20-24,13.5
+2022,July,Both Sexes,25-34,7.1
+2022,July,Both Sexes,35-44,5.0
+2022,July,Both Sexes,45-54,3.4
+2022,July,Both Sexes,55-64,2.3
+2022,July,Both Sexes,65 and over,2.7
+2022,January,Male,Total,4.8
+2022,January,Male,14-19,21.0
+2022,January,Male,20-24,12.9
+2022,January,Male,25-34,4.7
+2022,January,Male,35-44,2.8
+2022,January,Male,45-54,2.1
+2022,January,Male,55-64,2.3
+2022,January,Male,65 and over,1.9
+2022,April,Male,Total,4.7
+2022,April,Male,14-19,21.4
+2022,April,Male,20-24,13.8
+2022,April,Male,25-34,3.7
+2022,April,Male,35-44,2.8
+2022,April,Male,45-54,1.7
+2022,April,Male,55-64,2.2
+2022,April,Male,65 and over,2.5
+2022,July,Male,Total,5.2
+2022,July,Male,14-19,28.7
+2022,July,Male,20-24,14.7
+2022,July,Male,25-34,4.8
+2022,July,Male,35-44,3.2
+2022,July,Male,45-54,1.3
+2022,July,Male,55-64,1.6
+2022,July,Male,65 and over,2.6
+2022,January,Female,Total,7.9
+2022,January,Female,14-19,35.6
+2022,January,Female,20-24,18.7
+2022,January,Female,25-34,7.7
+2022,January,Female,35-44,6.1
+2022,January,Female,45-54,3.5
+2022,January,Female,55-64,3.9
+2022,January,Female,65 and over,1.9
+2022,April,Female,Total,7.6
+2022,April,Female,14-19,28.4
+2022,April,Female,20-24,13.3
+2022,April,Female,25-34,9.1
+2022,April,Female,35-44,5.4
+2022,April,Female,45-54,5.2
+2022,April,Female,55-64,3.8
+2022,April,Female,65 and over,1.2
+2022,July,Female,Total,8.2
+2022,July,Female,14-19,33.5
+2022,July,Female,20-24,12.1
+2022,July,Female,25-34,9.4
+2022,July,Female,35-44,6.8
+2022,July,Female,45-54,6.0
+2022,July,Female,55-64,3.2
+2022,July,Female,65 and over,3.0

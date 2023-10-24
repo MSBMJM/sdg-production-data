@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "Type of Mineral",
+            "name": "Type of mineral",
             "type": "string",
             "constraints": {
               "enum": [
@@ -44,7 +44,7 @@
                 ""
               ]
             },
-            "title": "Type of Mineral"
+            "title": "Type of mineral"
           },
           {
             "name": "Unit",
@@ -55,6 +55,7 @@
                 "('000 Mwh)",
                 "(%)",
                 "('000 MWh)",
+                "('000 Tonnes)",
                 ""
               ]
             },

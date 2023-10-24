@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">Disaggregation: Financial Institution</h1>
                     <div>
@@ -76,12 +102,12 @@
             
         <div class="my-3">
             <a href="values--disaggregation--financial-institution.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--financial-institution">Download CSV of values used in this disaggregation</a>
-            <div id="values--disaggregation--financial-institution" class="download-info">Size: 342 Bytes</div>
+            <div id="values--disaggregation--financial-institution" class="download-info">Size: 158 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">4</span>
+                    Total rows: <span class="total">2</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
@@ -102,22 +128,12 @@
       <td>1</td>
       <td>1</td>
     </tr>
-    <tr>
-      <td><a href="disaggregation-value--number-of-deposit-account-at-banks-and-other-financial-institutions-supervised.html">Number of deposit account at banks and other financial institutions supervised by the Bank of Jamaica (BOJ)</a></td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td><a href="disaggregation-value--number-of-deposit-account-at-commercial-banks-supervised-by-the-boj.html">Number of deposit account at commercial banks supervised by the BOJ</a></td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
   </tbody>
 </table>
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--number-of-automated-teller-machines-atms.html\">Number of automated teller machines (ATMs)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-commercial-bank-branches.html\">Number of commercial bank branches<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-deposit-account-at-banks-and-other-financial-institutions-supervised.html\">Number of deposit account at banks and other financial institutions supervised by the Bank of Jamaica (BOJ)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-deposit-account-at-commercial-banks-supervised-by-the-boj.html\">Number of deposit account at commercial banks supervised by the BOJ<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--number-of-automated-teller-machines-atms.html\">Number of automated teller machines (ATMs)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-commercial-bank-branches.html\">Number of commercial bank branches<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1}];
             </script>
             
         </div>
@@ -126,12 +142,12 @@
             
         <div class="my-3">
             <a href="indicators--disaggregation--financial-institution.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--financial-institution">Download CSV of indicators using this disaggregation</a>
-            <div id="indicators--disaggregation--financial-institution" class="download-info">Size: 26 Bytes</div>
+            <div id="indicators--disaggregation--financial-institution" class="download-info">Size: 18 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">2</span>
+                    Total rows: <span class="total">1</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
@@ -143,15 +159,12 @@
     <tr>
       <td>#8-10-1</td>
     </tr>
-    <tr>
-      <td>#8-10-2</td>
-    </tr>
   </tbody>
 </table>
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['indicators-table'] = [{"Indicator":"#8-10-1"},{"Indicator":"#8-10-2"}];
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#8-10-1"}];
             </script>
             
         </div>

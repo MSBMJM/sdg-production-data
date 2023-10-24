@@ -27,6 +27,8 @@
                 "Remittance Inflows",
                 "GDP (Current)",
                 "Remittance as a  proportion of GDP",
+                "Official Development Assistance (ODA) ",
+                "Foreign Direct Investment (FDI) ",
                 ""
               ]
             },
@@ -59,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "17-3-1",
-  "title": "Additional financial resources mobilized for developing countries from multiple sources"
+  "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
 }

@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Financial Soundness Indicators",
+            "name": "Financial soundness indicators",
             "type": "string",
             "constraints": {
               "enum": [
@@ -59,7 +59,7 @@
             }
           },
           {
-            "name": "Financial Soundness Indicators-Deposit-taking Institution",
+            "name": "Financial soundness indicators-deposit-taking institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -103,7 +103,7 @@
             }
           },
           {
-            "name": "Type of  Institution",
+            "name": "Type of  institution",
             "type": "string",
             "constraints": {
               "enum": [

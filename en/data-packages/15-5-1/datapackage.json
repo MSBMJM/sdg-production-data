@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Type of Species",
+            "name": "Type of species",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,7 +29,7 @@
                 ""
               ]
             },
-            "title": "Type of Species"
+            "title": "Type of species"
           },
           {
             "name": "Status",
@@ -38,10 +38,30 @@
               "enum": [
                 "Endemic",
                 "Threatened",
+                "Extinct",
+                "Critical Endangered",
+                "Endangered",
+                "Vulnerable",
+                "Near Threatened",
+                "Data Deficient",
+                "Least Concern",
+                "Total",
                 ""
               ]
             },
             "title": "Status"
+          },
+          {
+            "name": "Type of specie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Animals",
+                "Plants",
+                ""
+              ]
+            },
+            "title": "Type of specie"
           },
           {
             "name": "Value",

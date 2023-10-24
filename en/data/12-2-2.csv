@@ -1,4 +1,4 @@
-Year,Type of Mineral,Unit,Value
+Year,Type of mineral,Unit,Value
 2019,Bauxite,(Tonnes),9017.0
 2019,Alumina,(Tonnes),2173.0
 2019,Silica Sand,(Tonnes),25.0
@@ -159,3 +159,13 @@ Year,Type of Mineral,Unit,Value
 2018,Percentage Contribution of IIPs,(%),41.2
 2018,Lossess & Accounted for,('000 MWh),1144.0
 2018,System losses as a percentage of net generation,(%),26.0
+2021,Bauxite,('000 Tonnes),5950.0
+2021,Alumina,('000 Tonnes),1158.0
+2021,Silica Sand,('000 Tonnes),31.0
+2021,Limestone,('000 Tonnes),2711.0
+2021,Sand and Gravel,('000 Tonnes),1912.0
+2021,Marl and Fill,('000 Tonnes),505.0
+2021,Shale,('000 Tonnes),129.0
+2021,Pozzolan,('000 Tonnes),132.0
+2021,Clay,('000 Tonnes),0.0
+2021,Gypsum,('000 Tonnes),66.0

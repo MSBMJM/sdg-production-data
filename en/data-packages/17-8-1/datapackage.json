@@ -16,17 +16,18 @@
             "title": "Year"
           },
           {
-            "name": "Geographical Region",
+            "name": "Geographical region",
             "type": "string",
             "constraints": {
               "enum": [
                 "Jamaica",
                 "Urban",
                 "Rural",
+                " ",
                 ""
               ]
             },
-            "title": "Geographical Region"
+            "title": "Geographical region"
           },
           {
             "name": "Sex",

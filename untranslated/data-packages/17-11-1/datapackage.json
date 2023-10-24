@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Geographic Region",
+            "name": "Geographic region",
             "type": "string",
             "constraints": {
               "enum": [

@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Source of Primary Energy Supply",
+            "name": "Source of primary energy supply",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,6 +30,8 @@
                 "Natural Gas",
                 "Solar",
                 "Fuelwood",
+                "Per cent Renewable Share",
+                " Per cent Renewable Share",
                 ""
               ]
             }
@@ -42,6 +44,7 @@
                 "('000boe)",
                 "per cent",
                 "('000 boe)",
+                "(%)",
                 ""
               ]
             }

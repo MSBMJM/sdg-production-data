@@ -1,4 +1,4 @@
-Year,Financial Soundness Indicators,Financial Soundness Indicators-Deposit-taking Institution,Type of  Institution,Value
+Year,Financial soundness indicators,Financial soundness indicators-deposit-taking institution,Type of  institution,Value
 2017,Assets per employee (Total assets to number of employees) J$(000),,General Insurance,64.9
 2017,Liquid assets to total liabilities,,General Insurance,76.5
 2018,Net premium to Capital,,General Insurance,24.6
@@ -569,3 +569,97 @@ Year,Financial Soundness Indicators,Financial Soundness Indicators-Deposit-takin
 2018,,Duration of assets and liabilities -Domestic Bonds,,2.7
 2018,,Duration of assets and liabilities - Global Bonds,,9.4
 2018,,Liquid assets to total liabilities,,24.2
+2021,,Regulatory capital to risk-weighted assets,,14.2
+2021,,Tier 1 capital to risk-weighted assets,,13.4
+2021,,Non-performing loans (net) to capital,,-1.0
+2021,,Non-performing loans to total loans,,2.9
+2021,,Return on assets,,0.3
+2021,,Return on equity,,2.5
+2021,,Interest margin to income,,44.7
+2021,,Non-interest expenses to income,,23.4
+2021,,Liquid assets to total assets,,21.9
+2021,,NOP to capital (Regulatory),,-15.5
+2022,,Regulatory capital to risk-weighted assets,,14.3
+2022,,Tier 1 capital to risk-weighted assets,,13.6
+2022,,Non-performing loans (net) to capital,,-3.2
+2022,,Non-performing loans to total loans,,2.5
+2022,,Return on assets,,0.4
+2022,,Return on equity,,3.5
+2022,,Interest margin to income,,38.2
+2022,,Non-interest expenses to income,,17.9
+2022,,Liquid assets to total assets,,21.4
+2022,,NOP to capital (Regulatory),,-10.0
+2021,,Regulatory capital to risk-weighted assets,,23.1
+2021,,Tier 1 capital to risk-weighted assets,,19.1
+2021,,Non-performing loans (net) to capital,,0.5
+2021,,Non-performing loans to total loans,,0.8
+2021,,Return on assets,,0.3
+2021,,Return on equity,,1.6
+2021,,Interest margin to income,,19.1
+2021,,Non-interest expenses to income,,47.6
+2021,,Liquid assets to total assets,,13.4
+2021,,NOP to capital (Regulatory),,-6.4
+2022,,Regulatory capital to risk-weighted assets,,21.9
+2022,,Tier 1 capital to risk-weighted assets,,0.0
+2022,,Non-performing loans (net) to capital,,0.8
+2022,,Non-performing loans to total loans,,0.7
+2022,,Return on assets,,0.2
+2022,,Return on equity,,1.1
+2022,,Interest margin to income,,11.5
+2022,,Non-interest expenses to income,,41.3
+2022,,Liquid assets to total assets,,13.2
+2022,,NOP to capital (Regulatory),,0.0
+2021,,Net premium to Capital,,23.4
+2021,,Capital to Assets,,23.5
+2021,,Receivables to gross premiums,,262.2
+2021,,(Real estate + unquoted equities + debtors) to total assets,,34.4
+2021,,Equities to total assets,,2.6
+2021,,Risk retention ratio (net premium/gross premium),,43.3
+2021,,Net technical reserves to average of net claims paid in last 3 years,,306.6
+2021,,Net claims to net premium earned,,68.7
+2021,,Total expenses to net premium written,,102.4
+2021,,Combined ratio = loss + expenses ratios,,171.2
+2021,,Investment income to net premium,,13.0
+2021,,Return on Equity,,4.6
+2021,,Gross Premium to number of employees J$(000),,10.7
+2021,,Assets per employee (Total assets to number of employees) J$(000),,84.7
+2021,,Liquid assets to total liabilities,,67.8
+2022,,Net premium to Capital,,18.4
+2022,,Capital to Assets,,23.1
+2022,,Receivables to gross premiums,,308.3
+2022,,(Real estate + unquoted equities + debtors) to total assets,,39.2
+2022,,Equities to total assets,,2.1
+2022,,Risk retention ratio (net premium/gross premium),,34.3
+2022,,Net technical reserves to average of net claims paid in last 3 years,,231.5
+2022,,Net claims to net premium earned,,62.4
+2022,,Total expenses to net premium written,,89.4
+2022,,Combined ratio = loss + expenses ratios,,151.8
+2022,,Investment income to net premium,,18.9
+2022,,Return on Equity,,5.2
+2022,,Gross Premium to number of employees J$(000),,11.5
+2022,,Assets per employee (Total assets to number of employees) J$(000),,92.7
+2022,,Liquid assets to total liabilities,,70.2
+2021,,Capital to Technical Reserves,,111.1
+2021,,Receivables to gross premiums,,73.5
+2021,,(Real estate + unquoted equities + debtors) to total assets,,6.6
+2021,,Equities to total assets,,6.3
+2021,,Risk retention ratio (net premium/gross premium),,98.5
+2021,,Net technical reserves to average of net premiums received in last 3yrs,,650.2
+2021,,Investment income to investment assets,,2.4
+2021,,Return on Equity,,7.0
+2021,,Gross Premium to number of employees,,11.3
+2021,,Assets per employee (Total assets to number of employees),,202.9
+2021,,Expenses to net premium (expense ratio),,39.4
+2021,,Liquid assets to total liabilities,,24.9
+2022,,Capital to Technical Reserves,,138.1
+2022,,Receivables to gross premiums,,79.5
+2022,,(Real estate + unquoted equities + debtors) to total assets,,6.2
+2022,,Equities to total assets,,4.9
+2022,,Risk retention ratio (net premium/gross premium),,98.2
+2022,,Net technical reserves to average of net premiums received in last 3yrs,,565.8
+2022,,Investment income to investment assets,,2.3
+2022,,Return on Equity,,6.6
+2022,,Gross Premium to number of employees,,10.9
+2022,,Assets per employee (Total assets to number of employees),,204.4
+2022,,Expenses to net premium (expense ratio),,47.4
+2022,,Liquid assets to total liabilities,,30.4
