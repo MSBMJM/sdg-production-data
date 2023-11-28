@@ -591,6 +591,88 @@
       "title": "Coverage of protected areas in relation to marine areas"
     },
     {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Name of test",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grade 4 PEP Literacy Test",
+                "Grade 4 PEP Numeracy Test",
+                "Grade 6 Primary Exit Profile (Mathematics)",
+                "Grade 6 Primary Exit Profile (Language Arts)",
+                "Grade 4 Literacy Test",
+                "Grade 4 Numeracy Test",
+                "Grade 6 Achievement Test (Language Arts)",
+                "Grade 6 Achievement Test (Mathematics)",
+                ""
+              ]
+            },
+            "title": "Name of test"
+          },
+          {
+            "name": "Descriptor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of students achieving mastery",
+                "Proportion of Students at Developing Level",
+                "Proportion of Students at Proficient Level",
+                "Proportion of Students at Highly Proficient Level",
+                "Mean Score in Grade Six Achievement Test",
+                ""
+              ]
+            },
+            "title": "Descriptor"
+          },
+          {
+            "name": "Geographical region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Geographical region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+    },
+    {
       "path": "17-3-1/data.csv",
       "name": "17-3-1",
       "profile": "tabular-data-resource",
@@ -610,13 +692,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Remittance Inflows as a  proportion of GDP",
+                "Remittance as a  proportion of GDP",
                 "Official Development Assistance (ODA)",
                 "Foreign Direct Investment (FDI)",
                 "% ODA / Central Government Expenditure",
                 "% FDI / Central Government Expenditure",
-                "Remittance Inflows",
-                "GDP (Current)",
-                "Remittance as a  proportion of GDP",
                 "Official Development Assistance (ODA) ",
                 "Foreign Direct Investment (FDI) ",
                 ""
@@ -629,12 +710,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(J$ Million)",
-                "(Per cent)",
                 "(US$Mn)",
-                "14.8",
-                "14.4",
-                "14.0",
+                "(J$ Million)",
+                "%",
                 ""
               ]
             },
@@ -642,7 +720,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -734,8 +812,8 @@
       "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
+      "path": "12-2-2/data.csv",
+      "name": "12-2-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -749,62 +827,50 @@
             "title": "Year"
           },
           {
-            "name": "Name of test",
+            "name": "Type of mineral",
             "type": "string",
             "constraints": {
               "enum": [
-                "Grade 4 PEP Literacy Test",
-                "Grade 4 PEP Numeracy Test",
-                "Grade 6 Primary Exit Profile (Mathematics)",
-                "Grade 6 Primary Exit Profile (Language Arts)",
-                "Grade 4 Literacy Test",
-                "Grade 4 Numeracy Test",
-                "Grade 6 Achievement Test (Language Arts)",
-                "Grade 6 Achievement Test (Mathematics)",
+                "Bauxite",
+                "Alumina",
+                "Silica Sand",
+                "Limestone",
+                "Sand and Gravel",
+                "Marl and Fill",
+                "Shale",
+                "Pozzolan",
+                "Clay",
+                "Gypsum",
+                "Steam & Slow Speed Plants",
+                "Gas Turbines & Combined Cycle Plant",
+                "Hydro",
+                "Purchase from Independent Power Producers (IIPs) ",
+                "Total",
+                "Percentage Contribution of Jamaica Public Service Company (JPSCo)",
+                "Percentage Contribution of IIPs",
+                "Lossess & Accounted for",
+                "System losses as a percentage of net generation",
+                "Purchase from Independent Power Producers (IIPs)",
+                "Lossess & Accounted for ('000 MWh)",
                 ""
               ]
             },
-            "title": "Name of test"
+            "title": "Type of mineral"
           },
           {
-            "name": "Descriptor",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of students achieving mastery",
-                "Proportion of Students at Developing Level",
-                "Proportion of Students at Proficient Level",
-                "Proportion of Students at Highly Proficient Level",
-                "Mean Score in Grade Six Achievement Test",
+                "(Tonnes)",
+                "('000 Mwh)",
+                "(%)",
+                "('000 MWh)",
+                "('000 Tonnes)",
                 ""
               ]
             },
-            "title": "Descriptor"
-          },
-          {
-            "name": "Geographical region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Jamaica",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Geographical region"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
+            "title": "Unit"
           },
           {
             "name": "Value",
@@ -813,7 +879,7 @@
           }
         ]
       },
-      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "15-1-1/data.csv",
@@ -1894,37 +1960,14 @@
             "title": "Year"
           },
           {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GDP (Current)",
-                "Remittance as a  proportion of GDP",
-                "Remittance Inflows",
-                ""
-              ]
-            },
-            "title": "Indicator"
-          },
-          {
-            "name": "Name",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(US$Mn)",
-                ""
-              ]
-            },
-            "title": "Name"
-          },
-          {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
+                "Remittance as a  proportion of GDP",
                 "Remittance Inflows",
                 "GDP (Current)",
-                "Remittance as a  proportion of GDP",
+                "Remittance Inflows as a proportion of GDP",
                 ""
               ]
             },
@@ -1943,7 +1986,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2088,13 +2131,16 @@
       "title": "Tuberculosis incidence per 100,000 population"
     },
     {
-      "path": "12-2-2/data.csv",
-      "name": "12-2-2",
+      "path": "9-1-2/data.csv",
+      "name": "9-1-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -2103,46 +2149,26 @@
             "title": "Year"
           },
           {
-            "name": "Type of mineral",
+            "name": "Mode of transport",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bauxite",
-                "Alumina",
-                "Silica Sand",
-                "Limestone",
-                "Sand and Gravel",
-                "Marl and Fill",
-                "Shale",
-                "Pozzolan",
-                "Clay",
-                "Gypsum",
-                "Steam & Slow Speed Plants",
-                "Gas Turbines & Combined Cycle Plant",
-                "Hydro",
-                "Purchase from Independent Power Producers (IIPs) ",
-                "Total",
-                "Percentage Contribution of Jamaica Public Service Company (JPSCo)",
-                "Percentage Contribution of IIPs",
-                "Lossess & Accounted for",
-                "System losses as a percentage of net generation",
-                "Purchase from Independent Power Producers (IIPs)",
-                "Lossess & Accounted for ('000 MWh)",
+                "Number of Air Passenger Movement",
+                "Freight Movement by Air",
+                "Freight Movement by Water",
                 ""
               ]
             },
-            "title": "Type of mineral"
+            "title": "Mode of transport"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "(Tonnes)",
-                "('000 Mwh)",
-                "(%)",
-                "('000 MWh)",
-                "('000 Tonnes)",
+                "'(000)",
+                "('000 tonnes)",
+                "('000)",
                 ""
               ]
             },
@@ -2150,12 +2176,12 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
       },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+      "title": "Passenger and freight volumes, by mode of transport"
     },
     {
       "path": "3-8-2/data.csv",
@@ -5230,59 +5256,6 @@
       "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
-      "path": "9-1-2/data.csv",
-      "name": "9-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Mode of transport",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of Air Passenger Movement",
-                "Freight Movement by Air",
-                "Freight Movement by Water",
-                ""
-              ]
-            },
-            "title": "Mode of transport"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "'(000)",
-                "('000 tonnes)",
-                "('000)",
-                ""
-              ]
-            },
-            "title": "Unit"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Passenger and freight volumes, by mode of transport"
-    },
-    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
@@ -5971,6 +5944,91 @@
       "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
+      "path": "15-4-2/data.csv",
+      "name": "15-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Kapos mountain class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "k1",
+                "k2",
+                "k3",
+                "k4",
+                "k5",
+                ""
+              ]
+            },
+            "title": "Kapos mountain class"
+          },
+          {
+            "name": "Ipcc class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forest",
+                "Cropland",
+                "Grassland",
+                "Wetland",
+                "Settlement",
+                "Other Land",
+                "MGCI",
+                "MGCI All",
+                "MGC",
+                ""
+              ]
+            },
+            "title": "Ipcc class"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(%)",
+                "(km2 '000)",
+                "(Area %)",
+                "(km2 ‘000)",
+                "(area %)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sum of green cover classes",
+                "Sum of other land cover classes",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
+    },
+    {
       "path": "3-9-3/data.csv",
       "name": "3-9-3",
       "profile": "tabular-data-resource",
@@ -6111,91 +6169,6 @@
         ]
       },
       "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
-    },
-    {
-      "path": "15-4-2/data.csv",
-      "name": "15-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Kapos mountain class",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "k1",
-                "k2",
-                "k3",
-                "k4",
-                "k5",
-                ""
-              ]
-            },
-            "title": "Kapos mountain class"
-          },
-          {
-            "name": "Ipcc class",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Forest",
-                "Cropland",
-                "Grassland",
-                "Wetland",
-                "Settlement",
-                "Other Land",
-                "MGCI",
-                "MGCI All",
-                "MGC",
-                ""
-              ]
-            },
-            "title": "Ipcc class"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(%)",
-                "(km2 '000)",
-                "(Area %)",
-                "(km2 ‘000)",
-                "(area %)",
-                ""
-              ]
-            },
-            "title": "Unit"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sum of green cover classes",
-                "Sum of other land cover classes",
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
     },
     {
       "path": "11-6-2/data.csv",
