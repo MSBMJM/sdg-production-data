@@ -1,10 +1,10 @@
 Value,Disaggregation combinations using this value,Number of indicators
-(%),62,8
+%,50,5
 ('000 boe),10,1
 ('000 Mwh),7,1
 ('000 MWh),1,1
 ('000 Tonnes),10,1
-('000 tonnes),13,3
+('000 tonnes),12,2
 '(000),1,1
 ('000),1,1
 ('000boe),8,1
@@ -12,7 +12,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 14.0,1,1
 14.4,1,1
 14.8,1,1
-%,50,5
+(%),62,8
 (Area %),1,1
 (area %),1,1
 Cumulative Mean Beach Width (m),9,1
@@ -35,9 +35,9 @@ per 100 000 population,18,1
 per 100.000 adults,2,1
 per 100.000 population,29,2
 (per 100.000 population),27,1
+Per cent,1,1
 (Per cent),5,2
 (per cent),3,1
-Per cent,1,1
 per cent,1,1
 (Proportion of Births),1,1
 Score,13,1
