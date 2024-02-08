@@ -15,14 +15,35 @@
             "type": "integer"
           },
           {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GDP (Current)",
+                "Remittance as a  proportion of GDP",
+                "Remittance Inflows",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(US$Mn)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Remittance as a  proportion of GDP",
                 "Remittance Inflows",
                 "GDP (Current)",
-                "Remittance Inflows as a proportion of GDP",
+                "Remittance as a  proportion of GDP",
                 ""
               ]
             }
@@ -39,7 +60,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

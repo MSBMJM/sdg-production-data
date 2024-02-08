@@ -21,20 +21,6 @@
             "constraints": {
               "enum": [
                 "Drought",
-                "Hurricane Michelle",
-                "May/June Flood Rains",
-                "Hurricane Charley",
-                "Hurricane Ivan",
-                "Hurricanes Dennis and Emily",
-                "Hurricane Dennis and Emily",
-                "Hurricane Wilma",
-                "Hurricane Dean",
-                "Tropical Storm Gustav",
-                "Tropical Storm Nicole",
-                "Hurricane Sandy",
-                "May Flood Rains",
-                "Total",
-                "Average",
                 ""
               ]
             },
@@ -46,7 +32,6 @@
             "constraints": {
               "enum": [
                 "Cost ($JB)",
-                "Impact (% GDP)",
                 ""
               ]
             },

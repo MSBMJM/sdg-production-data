@@ -1,17 +1,16 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Average,3,2
-Drought,3,3
-Hurricane Charley,6,3
-Hurricane Dean,14,4
-Hurricane Dennis and Emily,11,4
-Hurricane Ivan,14,4
-Hurricane Michelle,6,3
-Hurricane Sandy,14,4
-Hurricane Wilma,14,4
-Hurricanes Dennis and Emily,3,3
-March to June Rains,8,2
-May Flood Rains,6,3
-May/June Flood Rains,14,4
-Total,3,2
-Tropical Storm Gustav,14,4
-Tropical Storm Nicole,14,4
+Average,2,1
+Drought,2,2
+Hurricane Charley,4,2
+Hurricane Dean,12,3
+Hurricane Dennis and Emily,10,3
+Hurricane Ivan,12,3
+Hurricane Michelle,4,2
+Hurricane Sandy,12,3
+Hurricane Wilma,12,3
+Hurricanes Dennis and Emily,2,2
+March to June Rains,4,1
+May Flood Rains,2,1
+May/June Flood Rains,6,2
+Tropical Storm Gustav,6,2
+Tropical Storm Nicole,6,2

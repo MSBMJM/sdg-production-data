@@ -12,28 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Event",
             "type": "string",
             "constraints": {
               "enum": [
-                "May/June Flood Rains",
                 "Hurricane Ivan",
                 "Hurricane Dennis and Emily",
                 "Hurricane Wilma",
                 "Hurricane Dean",
-                "Tropical Storm Gustav",
-                "Tropical Storm Nicole",
                 "Hurricane Sandy",
-                "March to June Rains",
-                "Drought",
                 "Hurricane Michelle",
                 "Hurricane Charley",
                 "Hurricanes Dennis and Emily",
-                "May Flood Rains",
-                "Total",
                 ""
               ]
             }
@@ -43,10 +36,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persons Affected Per 100.000 population",
-                "Persons Dead per 100.000 population",
-                "Persons Injured per 100.000 population",
-                "Persons Missing per 100.000 population",
+                "Persons Affected Per 100000 population",
+                "Persons Dead per 100000 population",
+                "Persons Injured per 100000 population",
+                "Persons Missing per 100000 population",
                 "Cost ($JB)",
                 "Impact (% GDP)",
                 ""

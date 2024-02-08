@@ -20,12 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Remittance Inflows as a  proportion of GDP",
-                "Remittance as a  proportion of GDP",
                 "Official Development Assistance (ODA)",
                 "Foreign Direct Investment (FDI)",
                 "% ODA / Central Government Expenditure",
                 "% FDI / Central Government Expenditure",
+                "Remittance Inflows",
+                "GDP (Current)",
+                "Remittance as a  proportion of GDP",
                 "Official Development Assistance (ODA) ",
                 "Foreign Direct Investment (FDI) ",
                 ""
@@ -38,9 +39,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(US$Mn)",
                 "(J$ Million)",
-                "%",
+                "(Per cent)",
+                "(US$Mn)",
+                "14.8",
+                "14.4",
+                "14.0",
                 ""
               ]
             },
@@ -48,7 +52,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

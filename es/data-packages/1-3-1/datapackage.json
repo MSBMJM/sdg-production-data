@@ -37,22 +37,6 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "Greater Kingston Metropolitan Area",
-                "Other Urban Centre",
-                "Rural",
-                "Kingston & St Andrew",
-                "St Thomas",
-                "Portland",
-                "St Mary",
-                "St Ann",
-                "Trelawny",
-                "St James",
-                "Hanover",
-                "Westmoreland",
-                "St Elizabeth",
-                "Manchester",
-                "Clarendon",
-                "St Catherine",
                 ""
               ]
             },
@@ -63,14 +47,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Children",
-                "Adult",
-                "Elderly",
-                "Pregnant and Lactating Women",
                 "Male",
                 "Female",
                 "Total",
-                "Persons with disabilities",
                 ""
               ]
             },

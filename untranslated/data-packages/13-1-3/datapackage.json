@@ -19,20 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kingston and St Andrew",
-                "St Thomas",
-                "Portland",
-                "St Mary",
-                "St Ann",
-                "Trelawny",
-                "St James",
-                "Hanover",
-                "Westmoreland",
-                "St Elizabeth",
-                "Manchester",
-                "Clarendon",
-                "St Catherine",
-                "Portmore",
                 "Jamaica",
                 ""
               ]
@@ -54,7 +40,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

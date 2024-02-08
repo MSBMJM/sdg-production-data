@@ -1,21 +1,21 @@
 Disaggregation,Number of indicators,Number of values
 Age at First Union,2,6
-Age group,1,8
 Age Group,11,48
+Age group,1,8
 Agency,1,2
 Area of Residence,1,2
 Category of Child Labour,1,3
-Category of E-waste,1,18
+Category of E-waste,1,2
 Category of International Health Regulations,1,13
-Category,9,32
+Category,9,29
 Descriptor,1,5
 Development Type,1,6
 Educational Level,1,4
 Educational Status,1,4
 Enrolment Status,1,2
-Event,4,16
-Financial institution,1,2
+Event,4,15
 Financial Institution,1,2
+Financial institution,1,2
 Financial soundness indicators-deposit-taking institution,1,35
 Financial soundness indicators,1,35
 Form of Sexual Violence,1,10
@@ -24,8 +24,8 @@ GDP (Tourism),1,2
 Geogaphical Region,4,1
 Geographic Area,1,5
 Geographic Location,1,4
-Geographic Region,5,20
 Geographic region,1,1
+Geographic Region,5,4
 Geographical Area,7,21
 Geographical Region,26,25
 Geographical region,3,6
@@ -40,7 +40,7 @@ Index,1,3
 Indicator for harmful drug,1,1
 Indicator for road traffic injuries,1,1
 Indicator Treatment Intervention,1,2
-Indicator,5,5
+Indicator,6,8
 infrastructure Type,1,7
 Ipcc class,1,9
 Kapos mountain class,1,5
@@ -55,10 +55,11 @@ Monitored Area,1,26
 Mortality Indictor,1,1
 Name of test,1,8
 Name of Weather Event,1,9
-Parish,3,32
+Name,1,1
+Parish,3,24
 Partner Status,2,8
 Pollutant,1,6
-Population Group,1,8
+Population Group,1,3
 Preschool attendance,1,2
 Proportion of bribery Incident,1,1
 Quarter,3,4
@@ -100,7 +101,7 @@ Type of Transpotation,1,7
 Type of Violence,1,4
 Type of Waste Collected,1,13
 Type of waste composition,1,10
-Unit,36,46
+Unit,36,48
 Vaccination Indicator,1,18
 Watershed,1,5
 Wealth Index Quintiles,2,6
