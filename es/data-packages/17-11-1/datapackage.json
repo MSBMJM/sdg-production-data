@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "Developing Countries",
+                "Jamaica",
                 ""
               ]
             },
